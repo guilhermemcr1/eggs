@@ -1,4 +1,4 @@
-# Eggs scripts for pterodactyl
+# Eggs scripts for pterodactyl and Brazilian Portuguese Translate
 
 Its an WIP, i'm editing some scripts from some repo's for best optimization.
 
